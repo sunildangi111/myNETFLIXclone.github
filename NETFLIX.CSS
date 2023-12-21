@@ -1,0 +1,609 @@
+body{
+    background-color: rgb(44, 40, 40);
+}
+.topslide1{
+    width: 100%;
+    height: 118vh;
+}
+#topslideimg{
+    opacity: 0.6;
+}
+#topslidehead{
+    width: 100%;
+    height: 17vh;
+    margin-top: -118vh;
+    position: relative;
+}
+
+#netflix{
+    width: 27vb;
+    height: 12vh;
+    position: absolute;
+    border: 2px solid red ;
+}
+#net{
+    margin-left: 38px;
+    margin-top: 15px;
+    color:  rgb(229, 9, 20);
+}
+#net1{
+    font-family: sans-serif;
+    font-size: 1.5rem;
+}
+#english{
+    width: 20vb;
+    height: 6vh;
+    margin-top: 12px;
+    border-radius: 7px;
+    background-color: rgb(28, 22, 22);
+    opacity: 0.8;
+    position: absolute;
+    margin-left: 170vb;
+    cursor: pointer;
+}
+#eng{
+    background-color: rgb(28, 22, 22);
+    font-family: sans-serif;
+    margin-top: 8px;
+    margin-left: 25px;
+}
+#lang{
+    background-color: rgb(28, 22, 22);
+    color: white;
+    border: black;
+    font-size: 1.05rem;
+    cursor: pointer;
+}
+/* #langsym{
+    color: white;
+    width: 5px;
+    height: 5px;
+} */
+#singin{
+    width: 12vb;
+    height: 5.4vh;
+    border-radius: 7px;
+    margin-top: 14px;
+    background-color: red;
+    position: absolute;
+    margin-left: 194vb ;
+    cursor: pointer;
+}
+ #sign{
+    margin-left: 12px;
+    margin-top: 6.6px;
+    color: rgb(255, 255, 255);
+    font-size: 0.85rem;
+    font-family: sans-serif;
+}
+#topslideimg{ 
+    width: 100%;
+    height: 100%;
+}
+#topslidemiddle1{
+    width: 85%;
+    height: 10vh;
+    margin-left: 8%;
+    margin-top: 23vh;
+    position: relative;
+   
+}
+#topslidemiddle2{
+    width: 60%;
+    height: 10vh;
+    margin-left: 22%;
+    margin-top: 1.5vh;
+    position: relative;
+    }
+#topslidemiddle3{
+    width: 40%;
+    height: 5vh;
+    margin-left: 37%;
+    margin-top: 4vh;
+    position: relative;
+    }
+#topslidemiddle4{
+    width: 70%;
+    height: 5vh;
+    margin-left: 25%;
+    margin-top: 4vh;
+    position: relative;
+   
+}
+#line1{
+    color: white;
+    font-size: 3rem;
+    font-weight: 800;
+    font-family: sans-serif;
+}
+#line2{
+    color: white;
+    font-size: 3rem;
+    font-weight: 800;
+    font-family: sans-serif;
+}
+#line3{
+    color: white;
+    font-size: 1.3rem;
+    font-weight: 400;
+    font-family: sans-serif;
+}
+#line4{
+    color: white;
+    font-size: 1.3rem;
+    font-weight: 400;
+    font-family: sans-serif;
+}
+#slide1foot{
+    width: 80%;
+    height: 10vh;
+    margin-left: 10%;
+    margin-top: 2vh;
+    position: absolute;
+}
+#email{
+    width: 39%;
+    height: 8.5vh;
+    margin-left: 20%;
+    position: relative;
+}
+#mailadd{
+    background-color: rgb(28, 22, 22);
+    opacity: 0.8;
+    border-radius: 4px;
+    border: 1px solid wheat;
+    width: 100%;
+    height: 100%;
+    position: relative;
+}
+#maillabel{
+    color: white;
+    position: relative;
+    border-radius: 8px;
+}
+#addressline{
+    color: white;
+    margin-top: -6.3vh;
+    margin-left: 4vh;
+    position: relative;
+    font-family: sans-serif;
+    opacity: 0.7;
+}
+#start{
+    width: 21%;
+    height: 8.9vh;
+    margin-left: 60.5%;
+    margin-top: -8.7vh;
+    border-radius: 5px;
+    background-color: red;
+    position: relative;
+    cursor: pointer;
+}
+#get{
+    color: white;
+    font-family: sans-serif;
+    padding-top: 2vh;
+    padding-left: 2vh;
+    font-size: 1.4rem;
+}
+#slide2{
+    width: 100%;
+    height: 100vh;
+    margin-top: 4px;
+    border: 2px solid black;
+    background-color: black;
+}
+#middle{
+    width: 100%;
+    height: 67vh;
+    margin-top: 20vh;
+    border: 2px solid black;
+}
+#middleleft{
+    width: 49%;
+    height: 80%;
+    margin-top: 6vh;
+    border: 2px solid black;
+}
+#middleright{
+    width: 48%;
+    height: 115%;
+    margin-top: -69vh;
+    margin-left: 49.5%;
+   
+}
+#vedio{
+    width: 72%;
+    height: 53.6%;
+    margin-top: -61.5vh;
+    margin-left: 13.5vb;
+    
+}
+#vedioplay1{
+    width: 100%;
+    height: 100%;
+    position: relative;
+
+}
+#tv{
+    width: 100%;
+    height: 100%;
+
+}
+#enjoy{
+    width: 90%;
+    height: 10vh;
+    margin-top: 10vh;
+}
+#enjoyli{
+    margin-left: 3vh;
+    color: white;
+    font-size: 3rem;
+    font-weight: 800;
+    font-family: sans-serif;
+}
+#watchli1{
+    width: 95%;
+    height: 4.6vh;
+    font-size: 1.5rem;
+    font-family: sans-serif;
+    margin-top: 4vh;
+    margin-left: 3vh;
+    color: white;
+}
+#watchli2{
+    width: 90%;
+    height: 5vh;
+    margin-left: 3vh;
+    font-size: 1.5rem;
+    font-family: sans-serif;
+    color: white;
+}
+#slide3{
+    width: 100%;
+    height: 100vh;
+    margin-top: 4px;
+    border: 2px solid black;
+    background-color: black;
+}
+#leftpart{
+    width: 47.5%;
+    height: 75vh;
+    margin-top: 10vh;
+    margin-left: 3vb;
+    position: relative;
+}
+#stare{
+    width: 100%;
+    height: 100%;
+}
+#stranger{
+    width: 64.5%;
+    height: 16vh;
+    margin-left: 18vh;
+    margin-top: -22.3vh;
+    border-radius: 10px;
+    position: relative;
+    background-color: black;
+    border: 2px solid rgb(112, 105, 105);
+}
+#stranimg{
+    width: 13.8%;
+    height: 13vh;
+    margin-left: 2vb;
+    margin-top: 1.4vh;
+    position: relative;
+}
+#simg{
+    width: 100%;
+    height: 100%;
+}
+#strangerli{
+    color: white;
+    margin-left: 13.3vb;
+    margin-top: -9vh;
+    font-family: sans-serif;
+    position: relative;
+}
+#downloadingli{
+    color: rgb(67, 67, 227);
+    font-family: sans-serif;
+    font-size: 0.9rem;
+    margin-left: 13.3vh;
+}
+#downloadimg{
+    width: 8vb;
+    height: 8vh;
+    margin-left: 54vb;
+    margin-top: -8vh;
+    position: relative;
+}
+#Dimg{
+    width: 100%;
+    height: 100%;
+}
+#Rdownloadli{
+    font-family: sans-serif;
+    font-weight: 900;
+    font-size: 3rem;
+    margin-left: 50.4%;
+    margin-top: -56vh;
+    color: white;
+}
+#saveli{
+    font-family: sans-serif;
+    font-size: 1.5rem;
+    margin-top: 2vh;
+    margin-left: 50.4%;
+    color: white;
+}
+#slide4{
+    width: 100%;
+    height: 100vh;
+    margin-top: 3px;
+    border: 2px solid black;
+    background-color: black;
+}
+#rightpa{
+    width: 47%;
+    height: 72vh;
+    margin-top: 13vh;
+    margin-left: 50.3%;
+}
+#tv2{
+    width: 100%;
+    height: 100%;   
+}
+#tv2show{
+    width: 28.7%;
+    height: 32.5vh;
+    border: 2px solid red;
+    margin-top: -64.2vh;
+    margin-left: 59%;
+    
+}
+#tv2video{
+    width: 100%;
+    height: 100%;
+}
+#leftpa{
+    width: 50%;
+    height: 50vh;
+   
+    
+}
+#watch{
+    color: white;
+    font-family: sans-serif;
+    font-weight: 900;
+    font-size: 3rem;
+    margin-top: -20vh;
+    margin-left: 2.5%;
+
+}
+#strem{
+    font-family: sans-serif;
+    font-size: 1.5rem;
+    color: white;
+    margin-left: 1.4%;
+    margin-top: 2vh;
+}
+#slide5{
+    width: 100%;
+    height: 100vh;
+    margin-top: 3px;
+    border: 2px solid black;
+    background-color: black;
+}
+#leftpa5{
+    width: 47.7%;
+    height: 74vh;
+    margin-top: 10vh;
+    margin-left: 3vb;
+    
+}
+#leftimg5{
+    width: 100%;
+    height: 100%;
+}
+#rightpa5{
+    width: 40%;
+    height: 25vh;
+    
+    color: white;
+    margin-left: 50%;
+    margin-top: -60vb;
+    font-family: sans-serif;
+    font-weight: 900;
+    font-size: 3rem;
+}
+#rightpa25{
+  width: 45%;
+  height: 30vh; 
+  color: white;
+  margin-left: 50%;
+  font-family: sans-serif;
+  font-size: 1.5rem;  
+}
+#slide6{
+    width: 100%;
+    height: 150vh;
+    margin-top: 3px;
+    border: 2px solid black;
+    background-color: black;
+}
+#upper6{
+    width: 60%;
+    height: 15vh;
+    margin-left: 20%;
+    margin-top: 10vh;
+    font-family: sans-serif;
+    font-weight: 900;
+    font-size: 3rem;
+    color: white;
+  
+}
+/* .lower6{
+    opacity: 0.9;
+    font-family: sans-serif;
+    font-size: 1.5rem; 
+    color: white; 
+    border: 1px solid black;
+    background-color: rgb(38, 37, 37); 
+} */
+#patti1{
+    width: 95%;
+    height: 14vh;
+    margin-left: 2.3%;
+    opacity: 0.9;
+    font-family: sans-serif;
+    font-size: 1.5rem; 
+    color: white; 
+    border: 1px solid black;
+    background-color: rgb(38, 37, 37);
+}
+#patti1span{
+    margin-top: 5vh;
+    margin-left: 3vb;
+}
+#patti2{
+    width: 95%;
+    height: 14vh;
+    margin-left: 2.3%;
+    margin-top: 1.5vh;
+    opacity: 0.9;
+    font-family: sans-serif;
+    font-size: 1.5rem; 
+    color: white; 
+    border: 1px solid black;
+    background-color: rgb(38, 37, 37);
+}
+#patti2span{
+    margin-top: 5vh;
+    margin-left: 3vb;
+}
+#patti3{
+    width: 95%;
+    height: 14vh;
+    margin-left: 2.3%;
+    opacity: 0.9;
+    margin-top: 1.5vh;
+    font-family: sans-serif;
+    font-size: 1.5rem; 
+    color: white; 
+    border: 1px solid black;
+    background-color: rgb(38, 37, 37);
+}
+#patti3span{
+    margin-top: 5vh;
+    margin-left: 3vb;
+}
+#patti4{
+    width: 95%;
+    height: 14vh;
+    margin-left: 2.3%;
+    opacity: 0.9;
+    margin-top: 1.5vh;
+    font-family: sans-serif;
+    font-size: 1.5rem; 
+    color: white; 
+    border: 1px solid black;
+    background-color: rgb(38, 37, 37);
+}
+#patti4span{
+    margin-top: 5vh;
+    margin-left: 3vb;
+}
+#patti5{
+    width: 95%;
+    height: 14vh;
+    margin-left: 2.3%;
+    opacity: 0.9;
+    margin-top: 1.5vh;
+    font-family: sans-serif;
+    font-size: 1.5rem; 
+    color: white; 
+    border: 1px solid black;
+    background-color: rgb(38, 37, 37);
+}
+#patti5span{
+    margin-top: 5vh;
+    margin-left: 3vb;
+}
+#patti6{
+    width: 95%;
+    height: 14vh;
+    margin-left: 2.3%;
+    opacity: 0.9;
+    margin-top: 1.5vh;
+    font-family: sans-serif;
+    font-size: 1.5rem; 
+    color: white; 
+    border: 1px solid black;
+    background-color: rgb(38, 37, 37);
+}
+#patti6span{
+    margin-top: 5vh;
+    margin-left: 3vb;
+}
+#slide6foot{
+    width: 80%;
+    height: 10vh;
+    margin-left: 10%;
+    margin-top: 2vh;
+    position: absolute;
+}
+#email6{
+    width: 39%;
+    height: 8.5vh;
+    margin-left: 20%;
+    position: relative;
+}
+#mailadd6{
+    background-color: rgb(28, 22, 22);
+    opacity: 0.8;
+    border-radius: 4px;
+    border: 1px solid wheat;
+    width: 100%;
+    height: 100%;
+    position: relative;
+}
+#maillabel6{
+    color: white;
+    position: relative;
+    border-radius: 8px;
+}
+#addressline6{
+    color: white;
+    margin-top: -6.3vh;
+    margin-left: 4vh;
+    position: relative;
+    font-family: sans-serif;
+    opacity: 0.7;
+}
+#start6{
+    width: 21%;
+    height: 8.9vh;
+    margin-left: 60.5%;
+    margin-top: -8.7vh;
+    border-radius: 5px;
+    background-color: red;
+    position: relative;
+    cursor: pointer;
+}
+#get6{
+    color: white;
+    font-family: sans-serif;
+    padding-top: 2vh;
+    padding-left: 2vh;
+    font-size: 1.4rem;
+}
+#lastsecond{
+    width: 53%;
+    height: 5vh;
+    margin-top: 8vh;
+    margin-left: 50vb;
+    color: white;
+    font-family: sans-serif;
+    font-size: 1.2rem;
+}
